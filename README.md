@@ -1,13 +1,13 @@
-# First Air / Canadian North API (5T / AKT) - Flight Tracking, Schedules, Routes & Fleet
+# Canadian North API (5T / AKT) - Flight Tracking, Schedules, Routes & Fleet
 
-Track **First Air / Canadian North** (IATA `5T`, ICAO `AKT`, Canada) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
+Track **Canadian North** (IATA `5T`, ICAO `AKT`, Canada) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
 
-This repo has ready-to-run examples (cURL, Python, Node.js) that pull First Air / Canadian North data by its airline code `5T`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
+This repo has ready-to-run examples (cURL, Python, Node.js) that pull Canadian North data by its airline code `5T`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
 
 > **Full reference:** [Canadian North Developer API](https://airlabs.co/canadian-north-developer-api)
 > **Free API key:** [airlabs.co/signup](https://airlabs.co/signup)
 
-## What you can pull for First Air / Canadian North
+## What you can pull for Canadian North
 
 | Data | AirLabs endpoint | Filter |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 ## Use cases
 
-- Flight-tracker / status pages featuring First Air / Canadian North (`5T`) flights
+- Flight-tracker / status pages featuring Canadian North (`5T`) flights
 - Travel apps showing 5T schedules, routes and live ETAs
 - Operational dashboards, delay monitoring and alerts
 - Enriching bookings with aircraft, route and fleet data
@@ -98,4 +98,4 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 ## License
 
-MIT - see [LICENSE](LICENSE). Not affiliated with or endorsed by First Air / Canadian North; "First Air / Canadian North" is a trademark of its owner. This repo shows how to access publicly available flight data via the AirLabs API.
+MIT - see [LICENSE](LICENSE). Not affiliated with or endorsed by Canadian North; "Canadian North" is a trademark of its owner. This repo shows how to access publicly available flight data via the AirLabs API.
