@@ -4,7 +4,7 @@ Track **First Air / Canadian North** (IATA `5T`, ICAO `AKT`, Canada) flights pro
 
 This repo has ready-to-run examples (cURL, Python, Node.js) that pull First Air / Canadian North data by its airline code `5T`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
 
-> **Full reference:** [First Air / Canadian North Developer API](https://airlabs.co/canadian-north-developer-api)
+> **Full reference:** [Canadian North Developer API](https://airlabs.co/canadian-north-developer-api)
 > **Free API key:** [airlabs.co/signup](https://airlabs.co/signup)
 
 ## What you can pull for First Air / Canadian North
@@ -90,7 +90,7 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 1. Get a **free API key** at [airlabs.co/signup](https://airlabs.co/signup)
 2. Clone this repo and drop your key into the examples in [`/examples`](./examples)
-3. Read the full [First Air / Canadian North API reference](https://airlabs.co/canadian-north-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
+3. Read the full [Canadian North API reference](https://airlabs.co/canadian-north-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
 
 ## About
 
